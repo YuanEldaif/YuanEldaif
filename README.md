@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuan Du
-- 👀 I’m interested in Statistics, Data Science, Machine Learning...
-- 🌱 I’m currently learning Bayesian computation, machine learning...
-- 💞️ I’m looking to collaborate on research studies by using advanced ML and statistics.
+- 👀 I’m interested in Statistics, Data Science, Machine Learning, Deep Learning
+- 🌱 I’m currently learning Generative Models, Energy based Models, Computer Vision, Pytorch, Tensorflow...
+- 💞️ I’m looking to collaborate on research studies by using advanced ML/DL and statistics.
 - 📫 How to reach me @ https://yuan-du.com/
 
 <!---
